@@ -1,0 +1,6 @@
+framework module Pods_Socializer {
+  umbrella header "Pods-Socializer-umbrella.h"
+
+  export *
+  module * { export * }
+}
